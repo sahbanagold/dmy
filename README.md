@@ -1,4 +1,5 @@
 ##dmy
+![alt travis-ci](https://travis-ci.org/sahbanagold/dmy.svg?branch=master)
 
 ##Examples:
 default language is Indonesia
