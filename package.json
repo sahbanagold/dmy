@@ -1,0 +1,24 @@
+{
+  "name": "dmy",
+  "version": "1.0.0",
+  "description": "date parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahbanagold/dmy.git"
+  },
+  "keywords": [
+    "date",
+    "parser"
+  ],
+  "author": "sahbana (sahbanalo@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahbanagold/dmy/issues"
+  },
+  "homepage": "https://github.com/sahbanagold/dmy#readme"
+}
