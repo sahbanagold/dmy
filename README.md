@@ -12,7 +12,7 @@ output :
 ```
 
 ```js
-var dmy = require('./index.js')
+var dmy = require('dmy')
 console.log(dmy("dmy"))
 ```
 output :
@@ -22,7 +22,7 @@ output :
 
 
 ```js
-var dmy = require('./index.js')
+var dmy = require('dmy')
 console.log(dmy("dmy","m"))
 ```
 output :
@@ -32,7 +32,7 @@ output :
 
 
 ```js
-var dmy = require('./index.js')
+var dmy = require('dmy')
 console.log(dmy("mdy"))
 ```
 output :
@@ -42,7 +42,7 @@ output :
 
 
 ```js
-var dmy = require('./index.js')
+var dmy = require('dmy')
 console.log(dmy("mdy","m"))
 ```
 output :
