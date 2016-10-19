@@ -3,7 +3,7 @@
 ##Examples:
 default language is Indonesia
 ```js
-var dmy = require('./index.js')
+var dmy = require('dmy')
 console.log(dmy())
 ```
 output :
